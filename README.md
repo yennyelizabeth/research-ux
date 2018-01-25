@@ -103,3 +103,4 @@ c) pruebas de guerrilla : una forma de prueba más informal en la que se solic
 - http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/#what
 - https://www.smashingmagazine.com/2009/10/15-common-mistakes-in-e-commerce-design-and-how-to-avoid-them/
 - https://uxplanet.org/how-to-choose-a-user-research-method-985112051d84
+- https://www.nngroup.com/articles/ux-research-cheat-sheet/
