@@ -1,6 +1,7 @@
 
 ==================
-# SQUAD:
+# SQUAD: GeekDesign
+
 ![Inicio](images/squad.png)
 
 # INTEGRANTES:  
@@ -54,10 +55,9 @@ Los diversos tipos de investigación UX van desde entrevistas en persona hasta p
 - Nos esforzamos por comprender a nuestros compañeros de trabajo, nuestras familias y nuestros amigos, a menudo tratando de comprender un punto de discordia o un concepto desconocido. 
 - Pero para los investigadores de UX, la comprensión tiene menos que ver con los desacuerdos y más con los modelos mentales.
 
-#### Un modelo mental
+##### Un modelo mental
 - Es la imagen que alguien tiene en mente cuando piensa en una frase o situación en particular. 
-- Por ejemplo, si alguien posee un SUV, su modelo mental de "automóvil" probablemente difiera del modelo mental del propietario de un automóvil inteligente. 
-- El modelo mental informa las decisiones que tomamos; En el caso de los propietarios de automóviles, cuando se les preguntó "¿cuánto tiempo lleva conducir a Winnipeg?", sus respuestas variarán en función del consumo de gasolina que obtengan sus vehículos, entre otras cosas.
+- El modelo mental informa las decisiones que tomamos.
 - Los investigadores de diseño deben comprender los modelos mentales de las personas que entrevistan o evalúan, por dos razones: 
 * Primero, todos hablamos en taquigrafía a veces. Los investigadores deben reconocer esa taquigrafía basada en el modelo mental del hablante. 
 * Segundo, si el investigador puede identificar con precisión el modelo mental del usuario, él o ella puede compartir esta información con el equipo de diseño y diseñar para acomodar el modelo.
@@ -71,7 +71,7 @@ Los diversos tipos de investigación UX van desde entrevistas en persona hasta p
 
 ## Técnicas cuantitativas
 
-La investigación cuantitativa es cualquier investigación que se puede medir numéricamente. Responde a preguntas tales como " ¿a cuántas personas hizo clic aquí?" O " ¿qué porcentaje de usuarios puede encontrar el llamado a la acción?". Es valioso para comprender las probabilidades estadísticas y lo que está sucediendo en un sitio o en una aplicación.
+La investigación cuantitativa es cualquier investigación que se puede medir numéricamente. Responde a preguntas tales como "¿a cuántas personas hizo clic aquí?". Es valioso para comprender las probabilidades estadísticas y lo que está sucediendo en un sitio o en una aplicación.
 
 1. Uso de estadísticas sobre el tamaño de muestra  pequeño: las muestras pequeñas no siempre funcionan en todas las situaciones excepto para evaluaciones iniciales rápidas, es una forma efectiva de identificar algunas grandes diferencias en el diseño, el flujo o la estrategia.
 2. Poder  : es la capacidad o el nivel de confianza para detectar diferencias entre varios estudios. Cuanta más potencia, más probable es que encuentre las pequeñas diferencias entre varios estudios.
@@ -100,6 +100,6 @@ c) pruebas de guerrilla : una forma de prueba más informal en la que se solic
 
 ## Links de Referencia
 - https://medium.com/ux-design-web-mobile-virtual-reality/12-ux-research-techniques-quantitative-and-qualitative-1a37bcb1914e
-
 - http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/#what
-
+- https://www.smashingmagazine.com/2009/10/15-common-mistakes-in-e-commerce-design-and-how-to-avoid-them/
+- https://uxplanet.org/how-to-choose-a-user-research-method-985112051d84
