@@ -18,10 +18,13 @@
 
 ## Qué es UX Research
 
-La investigación tiene dos partes: recopilar datos y sintetizar esos datos para mejorar la usabilidad.
-Al comienzo del proyecto, la investigación de diseño se centra en aprender sobre los requisitos del proyecto de los interesados ​​y en conocer las necesidades y los objetivos de los usuarios finales.
-Los investigadores realizarán entrevistas, recopilarán encuestas, observarán prospectos o usuarios actuales, y revisarán literatura, datos o análisis existentes. Luego, iterativamente a lo largo del proceso de diseño, el foco de la investigación cambia a la usabilidad y el sentimiento. 
-Los investigadores pueden realizar pruebas de usabilidad o pruebas A / B, entrevistar a los usuarios sobre el proceso y, en general, probar suposiciones que mejorarán los diseños.
+- La investigación tiene dos partes: recopilar datos y sintetizar esos datos para mejorar la usabilidad.
+- Al comienzo del proyecto, la investigación de diseño se centra en aprender sobre los requisitos del proyecto de los interesados ​​y en conocer las necesidades y los objetivos de los usuarios finales.
+- Los investigadores realizarán entrevistas, recopilarán encuestas, observarán prospectos o usuarios actuales, y revisarán literatura, datos o análisis existentes.
+- Luego, iterativamente a lo largo del proceso de diseño, el foco de la investigación cambia a la usabilidad y el sentimiento. 
+- Los investigadores pueden realizar pruebas de usabilidad o pruebas A / B, entrevistar a los usuarios sobre el proceso y, en general, probar suposiciones que mejorarán los diseños.
+
+
 ![Inicio](assets/images/ux-research.png)
 
 
@@ -36,28 +39,35 @@ Estas son las cinco preguntas clave que debe considerar al definir su plan de in
 ### Metodologías comunes
 Los diversos tipos de investigación UX van desde entrevistas en persona hasta pruebas A / B no moderadas (y todo lo demás), aunque son consistentes en que todas se derivan de las mismas metodologías clave: observación, comprensión y análisis.
 
-(assets/images/metodos.png)
+![Inicio](assets/images/metodos.png)
 
 
-- Observación
-El primer paso para realizar una investigación es aprender a observar el mundo que nos rodea. Al igual que los fotógrafos principiantes, los investigadores principiantes deben aprender a ver. Deben notar los tics nerviosos que pueden indicar que sus entrevistados están estresados ​​o son inciertos, y retomar referencias aparentemente menores que pueden reflejar creencias o pensamientos arraigados que deberían ser probados.
+#### Observación
+- El primer paso para realizar una investigación es aprender a observar el mundo que nos rodea.
+- Al igual que los fotógrafos principiantes, los investigadores principiantes deben aprender a ver. 
+- Deben notar los tics nerviosos que pueden indicar que sus entrevistados están estresados ​​o son inciertos, y retomar referencias aparentemente menores que pueden reflejar creencias o pensamientos arraigados que deberían ser probados.
+- La observación puede parecer una habilidad simple, pero puede nublarse por prejuicios inconscientes, que todos tienen. 
+- Los investigadores de diseño se entrenan para observar y tomar notas para luego poder encontrar patrones en grupos de personas aparentemente diversos.
 
-La observación puede parecer una habilidad simple, pero puede nublarse por prejuicios inconscientes, que todos tienen. Los investigadores de diseño se entrenan para observar y tomar notas para luego poder encontrar patrones en grupos de personas aparentemente diversos.
+#### Comprensión
+- Al igual que la observación, la comprensión es algo que hacemos todo el tiempo en nuestra vida cotidiana.
+- Nos esforzamos por comprender a nuestros compañeros de trabajo, nuestras familias y nuestros amigos, a menudo tratando de comprender un punto de discordia o un concepto desconocido. 
+- Pero para los investigadores de UX, la comprensión tiene menos que ver con los desacuerdos y más con los modelos mentales.
 
-- Comprensión
-Al igual que la observación, la comprensión es algo que hacemos todo el tiempo en nuestra vida cotidiana. Nos esforzamos por comprender a nuestros compañeros de trabajo, nuestras familias y nuestros amigos, a menudo tratando de comprender un punto de discordia o un concepto desconocido. Pero para los investigadores de UX, la comprensión tiene menos que ver con los desacuerdos y más con los modelos mentales .
+#### Un modelo mental
+- Es la imagen que alguien tiene en mente cuando piensa en una frase o situación en particular. 
+- Por ejemplo, si alguien posee un SUV, su modelo mental de "automóvil" probablemente difiera del modelo mental del propietario de un automóvil inteligente. 
+- El modelo mental informa las decisiones que tomamos; En el caso de los propietarios de automóviles, cuando se les preguntó "¿cuánto tiempo lleva conducir a Winnipeg?", sus respuestas variarán en función del consumo de gasolina que obtengan sus vehículos, entre otras cosas.
+- Los investigadores de diseño deben comprender los modelos mentales de las personas que entrevistan o evalúan, por dos razones: 
+* Primero, todos hablamos en taquigrafía a veces. Los investigadores deben reconocer esa taquigrafía basada en el modelo mental del hablante. 
+* Segundo, si el investigador puede identificar con precisión el modelo mental del usuario, él o ella puede compartir esta información con el equipo de diseño y diseñar para acomodar el modelo.
 
-- Un modelo mental es la imagen que alguien tiene en mente cuando piensa en una frase o situación en particular. Por ejemplo, si alguien posee un SUV, su modelo mental de "automóvil" probablemente difiera del modelo mental del propietario de un automóvil inteligente. El modelo mental informa las decisiones que tomamos; En el caso de los propietarios de automóviles, cuando se les preguntó "¿cuánto tiempo lleva conducir a Winnipeg?", sus respuestas variarán en función del consumo de gasolina que obtengan sus vehículos, entre otras cosas.
-
-Los investigadores de diseño deben comprender los modelos mentales de las personas que entrevistan o evalúan, por dos razones. Primero, todos hablamos en taquigrafía a veces. Los investigadores deben reconocer esa taquigrafía basada en el modelo mental del hablante. Segundo, si el investigador puede identificar con precisión el modelo mental del usuario, él o ella puede compartir esta información con el equipo de diseño y diseñar para acomodar el modelo.
-
-- Análisis
-La investigación en sí misma puede ser valiosa, pero con el fin de utilizar los conocimientos para informar el diseño, debe analizarse y finalmente presentarse a un equipo más grande. El análisis es el proceso mediante el cual el investigador identifica los patrones en la investigación, propone posibles razones o soluciones, y hace recomendaciones.
-
-Algunas técnicas de análisis incluyen la creación de personajes o escenarios, la descripción de modelos mentales o el suministro de cuadros y gráficos que representan las estadísticas y los comportamientos de los usuarios. Aunque las técnicas descritas aquí se centran principalmente en la realización de investigaciones, es importante recordar que la investigación solo es valiosa si se comparte . No le sirve de nada a nadie cuando está encerrado en un armario, u olvidado por la emoción del diseño.
-
-
-
+#### Análisis
+- La investigación en sí misma puede ser valiosa, pero con el fin de utilizar los conocimientos para informar el diseño, debe analizarse y finalmente presentarse a un equipo más grande. 
+- El análisis es el proceso mediante el cual el investigador identifica los patrones en la investigación, propone posibles razones o soluciones, y hace recomendaciones.
+- Algunas técnicas de análisis incluyen la creación de personajes o escenarios, la descripción de modelos mentales o el suministro de cuadros y gráficos que representan las estadísticas y los comportamientos de los usuarios.
+- Aunque las técnicas descritas aquí se centran principalmente en la realización de investigaciones, es importante recordar que la investigación solo es valiosa si se comparte .
+- No le sirve de nada a nadie cuando está encerrado en un armario, u olvidado por la emoción del diseño.
 
 ## Técnicas cuantitativas
 
